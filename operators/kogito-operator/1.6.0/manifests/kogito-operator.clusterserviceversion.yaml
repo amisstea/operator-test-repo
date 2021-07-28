@@ -541,7 +541,7 @@ spec:
   maturity: beta
   provider:
     name: Red Hat
-  replaces: kogito-operator.v1.5.0
+  #replaces: kogito-operator.v1.5.0
   version: 1.6.0
   relatedImages:
   - name: kogito-operator-35d1cbff62263810e070f67075aeacd814a81285177034f7050d7f8e072535c7-annotation
